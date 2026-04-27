@@ -14,7 +14,7 @@ Once you publish this to GitHub Pages it's reachable from any device with a brow
 
 
 
-\## Quick local test
+\## Quick local test.
 
 
 
